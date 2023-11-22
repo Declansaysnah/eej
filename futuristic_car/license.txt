@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Car
+* source:	https://sketchfab.com/3d-models/futuristic-car-61f388fc0abd44d4b811de0e5aeebf51
+* author:	Dev Anand (https://sketchfab.com/davisanand)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Car" (https://sketchfab.com/3d-models/futuristic-car-61f388fc0abd44d4b811de0e5aeebf51) by Dev Anand (https://sketchfab.com/davisanand) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
